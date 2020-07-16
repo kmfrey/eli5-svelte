@@ -1,0 +1,14 @@
+body, html {
+    font-family: "Roboto", sans-serif;
+    background-image: radial-gradient(rgb(255, 114, 48), rgb(11, 94, 135));
+    height: 100%;
+    color: white;
+}
+
+.logo {
+    background-image: url("img/logo.jpg");
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
